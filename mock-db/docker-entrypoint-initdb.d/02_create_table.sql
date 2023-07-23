@@ -1,5 +1,5 @@
 -- DB切り替え
-\c memochema
+\c memodb
 
 -- テーブル作成
 CREATE TABLE  memochema.test (
