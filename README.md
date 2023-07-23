@@ -15,3 +15,17 @@ docker rmi
 docker volume ls -qf dangling=true | %{ docker volume rm $_ }
 
 ```
+
+## 参考文献
+
+pgAdmin 4のインストール
+https://www.sraoss.co.jp/tech-blog/pgsql/pgadmin4/
+
+SpringでREST API
+https://agohack.com/building-spring-boot-rest-api-in-eclipse-set-up/
+
+Java SpringBoot Postgrs REST
+https://zenn.dev/junki555/articles/509003681bde8b
+
+JPA Postgresの設定
+https://qiita.com/k0uhashi/items/55cbb88fd0d1b8ae4721
