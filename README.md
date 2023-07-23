@@ -29,3 +29,7 @@ https://zenn.dev/junki555/articles/509003681bde8b
 
 JPA Postgresの設定
 https://qiita.com/k0uhashi/items/55cbb88fd0d1b8ae4721
+## Springプロジェクトの設定
+![](/doc_images/2023-07-23-21-27-27.png)
+
+![](/doc_images/2023-07-23-21-50-55.png)
